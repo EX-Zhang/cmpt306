@@ -25,7 +25,6 @@ Unity 2018.3.7f1
 * Demo Video.mp4: Demo Video that introduces how the game is played
 * mobile_control.zip: Code of Mobile Controlling part
 * ReturnStart.cs: Code of Returning to the main menu
-* DD.apk Apk file of the game
 
 ### Directories
 
